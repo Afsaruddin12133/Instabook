@@ -4,7 +4,7 @@
 Live Website Link: [Insta-Shorhor](https://afsaruddin12133.github.io/Insta-Shorhor/)
 
 ## Repository
-Repository: [GitHub Repository](https://github.com/Afsaruddin12133/Instabook)
+Repository: [GitHub Repository](https://afsaruddin12133.github.io/Instabook/)
 
 ## About the App
 Insta-Shorhor is a social media platform designed for sharing photos and connecting with friends. Users can create accounts, post images, and interact with others through likes and comments.
